@@ -1,0 +1,40 @@
+* {
+  font-family: sans-serif;
+}
+article {
+  border: 5px solid black;
+}
+h2, h3 {
+  text-transform: uppercase;
+}
+h2 {
+  text-align: center;
+  background-color: #EEEEEE;
+}
+p strong {
+  font-size: 22px;
+}
+.shipping {
+  color: #73777B;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+li {
+  list-style: square;
+  line-height: 1.5;
+}
+a:link {
+  color: black;
+}
+a:hover {
+  text-decoration: none;
+}
+button {
+  color: white;
+  background-color: black;
+}
+button:hover {
+  color: black;
+  background-color: white;
+}
